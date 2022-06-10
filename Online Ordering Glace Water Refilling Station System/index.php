@@ -267,7 +267,7 @@ include 'includes/wallet.php';
     <div class="footer-copyright">
       <div class="container">
         <span>Copyright © 2021 <a class="grey-text text-lighten-4" href="#" target="_blank">Students</a> All rights reserved.</span>
-        <span class="right"> Design and Developed by BSIT 4 - H <a class="white-text text-lighten-4" href="#">Students</a></span>
+        <span class="right"> Design and Developed by BSIT 4 - H Group C <a class="white-text text-lighten-4" href="#">Students</a></span>
         </div>
     </div>
   </footer>
